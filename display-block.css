@@ -1,0 +1,12 @@
+#first-paragraph{
+    padding: 20px;
+    background-color: yellow;
+}
+#second-paragraph{
+    background-color: orange;
+}
+#third-paragraph{
+    padding: 50px;
+    margin: 50px;
+    background-color: pink;
+}
